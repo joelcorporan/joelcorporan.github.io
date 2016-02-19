@@ -16,10 +16,11 @@ Tags: html5, themplate, landing page, app landing page
 /* 1 - Google Font
 ========================================= */
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,700);
+@import url(http://fonts.googleapis.com/css?family=Stentiga:400,100,300,700);
 
 @font-face{
 	font-family:'stentiga';
-	src:url('../fonts/stentiga.ttf');
+	src:url('fonts/stentiga.ttf');
 }
 
 /* =========================================
@@ -67,7 +68,7 @@ strong {
 	font-weight: 400;
 }
 .strongTitle {
-	font-family: stentiga;
+	font-family: 'Stentiga';
 }
 
 img {
