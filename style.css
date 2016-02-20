@@ -18,6 +18,11 @@ Tags: html5, themplate, landing page, app landing page
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,700);
 @import url(http://fonts.googleapis.com/css?family=Stentiga:400,100,300,700);
 
+@font-face{
+	font-family:'stentiga';
+	src:url('fonts/stentiga.ttf');
+}
+
 /* =========================================
  2 - Global Styles
 ========================================= */
